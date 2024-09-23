@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a dedicated **Computer Science student** in **AI and D
 - 🛠️ Currently working on:
   - **RAG System to retrive and search into GitHub issues and PRs**
   - Building expertise in **Golang** and **AI** applications
-- 🌱 Learning **Advanced Deep Learning**, **Natural Language Processing**, and **TensorFlow**
+- 🌱 Learning **Advanced Deep Learning**, **Natural Language Processing**, **Cuda** and **PyTorch**
 - ⚡ Fun fact: I'm also a competitive Track & Field Athlete! 🏃‍♂️
 
 ---
