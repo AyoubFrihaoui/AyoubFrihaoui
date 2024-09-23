@@ -2,7 +2,7 @@
 
 ```Currently working on the portfolio website...```
 
-Welcome to my GitHub! I'm a dedicated **Computer Science student** in **AI and Data Science** with a strong focus on **AI**, **Software Engineering**, and **Scalable Web Applications**. I have a passion for using modern technologies like **Golang**, **React**, **TensorFlow** and **Python** to build robust and efficient solutions. I'm always learning, innovating, and pushing boundaries.
+Welcome to my GitHub! I'm a dedicated **Computer Science student** in **AI and Data Science** with a strong focus on **AI**, **Software Engineering**, and **Scalable Web Applications**. I am passionate about using modern technologies like **Golang**, **React**, **TensorFlow** and **Python** to build robust and efficient solutions. I'm always learning, innovating, and pushing boundaries.
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a dedicated **Computer Science student** in **AI and D
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### Languages
-- **Golang**, **JavaScript/TypeScrpit**, **Python**, **C/C++**, **Java**, **Dart**, , **ASM X86/64**
+- **Golang**, **JavaScript/TypeScrpit**, **Python**, **C/C++**, **Java**, **Dart**, **ASM X86/64**
 
 ### Frontend
 - **React**, **Vite**, **Gatsby**
