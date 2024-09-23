@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+```Currently working on the portfolio website```
+
 Welcome to my GitHub! I'm a dedicated **Computer Science student** in **AI and Data Science** with a strong focus on **AI**, **Software Engineering**, and **Scalable Web Applications**. I have a passion for using modern technologies like **Golang**, **React**, **TensorFlow** and **Python** to build robust and efficient solutions. I'm always learning, innovating, and pushing boundaries.
 
 ---
